@@ -107,6 +107,3 @@ src/main/java/com/acortador/acortador/
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría realizar.
 
-## Licencia
-
-[Especificar la licencia del proyecto]
